@@ -100,7 +100,11 @@ git clone https://github.com/HiteshNP/Titanic-Classification.git
 
 - In conclusion, the Titanic Survival Prediction Project was an exciting endeavor where I applied Logistic Regression, Support Vector Machines, Naive Bayes, KNN and Decision Tree to predict the survival of passengers aboard the Titanic.
 
-- The Naive Bayes model achieved Accuracy Score:0.7686, Logistic Regression model achieved Accuracy Score:0.7611,	Decision Tree model achieved Accuracy Score: 0.7425, Support Vector Machines model achieved Accuracy Score:0.6604, KNN model achieved Accuracy Score:0.6604, indicating a reasonably good level of accuracy in predicting survival outcomes.
+- The Naive Bayes model achieved Accuracy Score:0.7686, 
+      Logistic Regression model achieved Accuracy Score:0.7611,	
+      Decision Tree model achieved Accuracy Score: 0.7425, 
+      Support Vector Machines model achieved Accuracy Score:0.6604, 
+      KNN model achieved Accuracy Score:0.6604, indicating a reasonably good level of accuracy in predicting survival outcomes.
 
 - Therefore, by employing a Naive Bayes model, one can attain the highest level of accuracy when predicting survival outcomes.
 
