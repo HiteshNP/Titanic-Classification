@@ -1,6 +1,6 @@
 # Titanic-Survival-Prediction
 
-<img src="https://wallpapercave.com/wp/wp2563741.jpg](https://raw.githubusercontent.com/Masterx-AI/Project_Titanic_Survival_Prediction_/main/titanic.jpg">
+<img src="https://raw.githubusercontent.com/Masterx-AI/Project_Titanic_Survival_Prediction_/main/titanic.jpg">
 
 Hello Everyone,
 
